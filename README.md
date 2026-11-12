@@ -2,7 +2,7 @@
 This is the pytorch implementation of CEPG-SSL. I hope these codes are helpful to you!
 
 <p align="center">
-  <img src="figs/FrameWork.png" width="100%">
+  <img src="CEPG-SSL/figs/FrameWork.png" width="100%">
 </p>
 
 ## Requirements
